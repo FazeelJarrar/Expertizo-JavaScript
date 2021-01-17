@@ -1,0 +1,8 @@
+OPERATORS CLASSIFICATION & IDENTIFICATION
+=========================================
+
+2 == 2 		(will check value)
+2 === 2		(will check datatype)
+2 >= 2		(will check wether it is greater or equal to)
+2 != 2		(WILL CHECK if it is not equal to or not)
+!(2 != 2)	(will negate the whole expression)
